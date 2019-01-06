@@ -1,2 +1,4 @@
-# Deep learning using keras, tensorflow 
-This is the basic code in which classification is done in GPU provided by google collab for the infamous mnist dataset.
+# Deep learning
+I've tried to collect few basic projects I've done myself using different machine learning libraries on the free GPU from google collab.
+
+Happy Coding! Cheers! 
